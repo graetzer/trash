@@ -1,4 +1,4 @@
 trash
 =====
 
-Stuff that's no logner useful
+Stuff that's no longer useful
