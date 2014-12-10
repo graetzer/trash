@@ -1,0 +1,16 @@
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\IAC.Bewässerung.resources
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\IAC.Controls.ChartControl.resources
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\IAC.Einstellungen.resources
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\IAC.MainForm.resources
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\IAC.Optimierung.resources
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\IAC.Properties.Resources.resources
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\RS232.exe
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\bin\Debug\RS232.exe
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\bin\Debug\RS232.pdb
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\RS232.pdb
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\bin\Debug\RS232.exe.config
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\ResGen.read.1.tlog
+C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232\obj\Debug\ResGen.write.1.tlog

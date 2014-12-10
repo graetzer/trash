@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="RS232">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\Simon\Desktop\code_acker\C# Pc Client\RS232.sln">
+</Property><Property Name="Date" Value="Dienstag, 1. März 2011">
+</Property><Property Name="Time" Value="15:56">
+</Property></Properties><Event ErrorLevel="0" Project="RS232" Source="RS232\RS232.csproj" Description="Projekt erfolgreich konvertiert">
+</Event><Event ErrorLevel="3" Project="RS232" Source="RS232\RS232.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="RS232.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="RS232.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="RS232" Source="RS232\RS232.csproj" Description="Überprüfung abgeschlossen: Upgrade der Projektdateien nicht erforderlich.">
+</Event></UpgradeLog>
